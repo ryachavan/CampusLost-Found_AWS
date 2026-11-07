@@ -1,0 +1,6 @@
+Flask>=2.2.0
+boto3>=1.26.0
+pymysql>=1.0.0
+Werkzeug>=2.2.0
+gunicorn>=20.1.0
+
